@@ -1,0 +1,94 @@
+{
+    "exercise_items": [
+        {
+            "super_routine": 42,
+            "superset": "B",
+            "superset_index": 1,
+            "sets": 4,
+            "reps": 12,
+            "load_kg": null,
+            "duration_s": null,
+            "exercise": 1
+        },
+        {
+            "super_routine": 42,
+            "superset": "X",
+            "superset_index": 13,
+            "sets": 3,
+            "reps": 12,
+            "load_kg": null,
+            "duration_s": null,
+            "exercise": 3
+        }
+    ],
+    "subunit_items": [
+        {
+            "super_routine": 42,
+            "superset": "B",
+            "superset_index": 9,
+            "sets": null,
+            "reps": null,
+            "load_kg": null,
+            "duration_s": null,
+            "sub_routine": {
+                "exercise_items": [
+                    {
+                        "super_routine": 39,
+                        "superset": "B",
+                        "superset_index": 1,
+                        "sets": 4,
+                        "reps": 13,
+                        "load_kg": null,
+                        "duration_s": null,
+                        "exercise": 1
+                    },
+                    {
+                        "super_routine": 39,
+                        "superset": "k",
+                        "superset_index": 1,
+                        "sets": 3,
+                        "reps": 129,
+                        "load_kg": null,
+                        "duration_s": null,
+                        "exercise": 3
+                    }
+                ],
+                "subunit_items": []
+            }
+        },
+        {
+            "super_routine": 42,
+            "superset": "B",
+            "superset_index": 10,
+            "sets": null,
+            "reps": null,
+            "load_kg": null,
+            "duration_s": null,
+            "sub_routine": {
+                "exercise_items": [
+                    {
+                        "super_routine": 39,
+                        "superset": "B",
+                        "superset_index": 1,
+                        "sets": 4,
+                        "reps": 13,
+                        "load_kg": null,
+                        "duration_s": null,
+                        "exercise": 1
+                    },
+                    {
+                        "super_routine": 39,
+                        "superset": "k",
+                        "superset_index": 1,
+                        "sets": 3,
+                        "reps": 129,
+                        "load_kg": null,
+                        "duration_s": null,
+                        "exercise": 3
+                    }
+                ],
+                "subunit_items": []
+            }
+        }
+    ]
+}
